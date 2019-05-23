@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author           = { :HyprMX => 'info@hyprmx.com' }	
   s.source           = { :http => 'https://s3.amazonaws.com/cocoapods-files/HyprMX-AdMob/5.1/HyprMX_iOS_AdMob_v5.1_b157.zip' }	
 
-   s.ios.deployment_target = '<<ADMOB_DEPLOYMENT_TARGET>>'	
+   s.ios.deployment_target = '8.0'	
 
    s.dependency 'HyprMX', '5.1'	
 
