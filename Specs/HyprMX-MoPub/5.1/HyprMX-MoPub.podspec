@@ -13,6 +13,6 @@ Pod::Spec.new do |s|
 
   s.dependency 'HyprMX', '5.1'
 
-  s.source_files = "HyprMX_iOS_MoPub.*/HyprMX/*.{h,m}"
+  s.source_files = "HyprMX_iOS_MoPub*/HyprMX/*.{h,m}"
 
 end
