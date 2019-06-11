@@ -16,8 +16,9 @@ Pod::Spec.new do |s|
        mv ./HyprMX_*/LICENSE.txt .
        rm -rf ./HyprMX_*/
       CMD
-
+      
   s.public_header_files = "HyprMX.framework/Headers"
   s.ios.vendored_frameworks = 'HyprMX.framework'
-
+  s.module_map = "HyprMX.framework/Modules/module.modulemap"
+  s.static_framework = true
 end
