@@ -8,22 +8,18 @@ The following Pods can be integrated with or without the `use_frameworks!` Targe
 
 ## HyprMX
 
-pod 'HyprMX', '5.1', :source => "https://github.com/HyprMXMobile/Cocoapod-Specs.git"  
+pod 'HyprMX', '~> 5.2.0', :source => "https://github.com/HyprMXMobile/Cocoapod-Specs.git"
 
 [Documentation](https://documentation.hyprmx.com/display/IMS/Quick+Start)
 
 
 ## MoPub
-pod 'HyprMX', '5.1', :source => "https://github.com/HyprMXMobile/Cocoapod-Specs.git"  
-pod 'HyprMX-MoPub', '5.1.1', :source => "https://github.com/HyprMXMobile/Cocoapod-Specs.git"
+pod 'HyprMX-MoPub', '~> 5.2.1', :source => "https://github.com/HyprMXMobile/Cocoapod-Specs.git"
 
 [Documentation](https://documentation.hyprmx.com/display/IMS/HyprMX+Mobile+SDK+MoPub+Adapter+Overview)
 
-
-The following Pod should be used without the `use_frameworks!` Target Configuration parameter.
-
 ## AdMob
 
-pod 'HyprMX-AdMob', '5.1', :source => "https://github.com/HyprMXMobile/Cocoapod-Specs.git"
+pod 'HyprMX-AdMob', '~>5.2.1', :source => "https://github.com/HyprMXMobile/Cocoapod-Specs.git"
 
 [Documentation](https://documentation.hyprmx.com/display/IMS/HyprMX+Mobile+SDK+AdMob+Adapter+Overview)
