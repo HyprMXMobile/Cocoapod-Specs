@@ -1,3 +1,9 @@
+# Deprecation Notice
+
+As of May 2020, the HyprMX CocoaPods are now available on CocoaPods.org.
+You can find our complete documentation [here](https://documentation.hyprmx.com/display/IMS/iOS+HyprMX+SDK).
+This repository is no longer being maintained.
+
 # Cocoapods
 
 To use the HyprMX SDK, AdMob Adapter, or MoPub Adapter, add the relevant cocoapod below and follow the link to the documentation on how to get started.
